@@ -1,0 +1,33 @@
+{
+	"name": "Theme-Twilight",
+	"displayName": "Twilight Theme",
+	"description": "Twilight Theme ported from the Twilight TextMate Theme",
+	"version": "0.0.2",
+	"publisher": "gerane",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "icon.png",
+	"homepage": "https://github.com/gerane/VSCodeThemes/blob/master/gerane.Theme-Twilight/README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/gerane/VSCodeThemes.git"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Twilight",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Twilight.tmTheme"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "187ebd49-6c58-4f48-a008-e0e2aded2349",
+		"publisherId": "a5c25faf-bf60-4941-81b9-9a852b96c5fb",
+		"publisherDisplayName": "gerane"
+	}
+}
